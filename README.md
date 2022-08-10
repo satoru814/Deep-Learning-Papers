@@ -1,5 +1,6 @@
-# Object-Detection-Summary
-This is paper summary of object detection papers that i read.
+# Deep learning object detection
 
-# Papers
+A paper list of object detection using deep learning.
 
+# Hybrid Task Cascade for Instance Segmentation
+https://arxiv.org/abs/1901.07518

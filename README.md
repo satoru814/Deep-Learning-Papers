@@ -6,3 +6,11 @@ A paper list of object detection using deep learning.
 - **Hybrid Task Cascade for Instance Segmentation(HTC)** [[arxiv]](https://arxiv.org/abs/1901.07518)<br>
 The Cascade network architecture for instance object detection. It's can fix the drowback of Cascade-RCNN. 
 Authors point out parallel processing of cascade-RCNN that prevent effectivery use of box-head and mask-head. They addisonary propose some cascade architecture related to effectivery use of features in backbone and heads.
+
+## Loss function
+- **Focal Loss for Dense Object Detection** [[arxiv]](https://arxiv.org/abs/1708.02002)<br>
+
+## Transfomers
+- **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
+
+## Other modules

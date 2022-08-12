@@ -11,6 +11,6 @@ Authors point out parallel processing of cascade-RCNN that prevent effectivery u
 - **Focal Loss for Dense Object Detection** [[arxiv]](https://arxiv.org/abs/1708.02002)<br>
 
 ## Transfomers
-- **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
+- **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
 
 ## Other modules

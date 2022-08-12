@@ -12,5 +12,6 @@ Authors point out parallel processing of cascade-RCNN that prevent effectivery u
 
 ## Transfomers
 - **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
+Shift window Transfomer for effective self-attention computation in dense tasks is proposed. [ViT](https://arxiv.org/abs/2010.11929) adapted transfomer to image classification task by looking image as parted tokens. However, for dnese tasks(e.g. object detection and semantic segmentation), it's quandaric computation is impractical. Swin-transfomer can linear self-attention computation as image height and width and keep connection between image tokens.
 
 ## Other modules

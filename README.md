@@ -17,4 +17,6 @@ Shift window Transfomer for effective self-attention computation in dense tasks 
 ## CNN
 - **Deformable Convolutional Networks[2017]** [[arxiv]](https://arxiv.org/abs/1703.06211)<br>
 
+## Survey 
+- **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>
 ## Other modules

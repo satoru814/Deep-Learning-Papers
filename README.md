@@ -16,7 +16,10 @@ Shift window Transfomer for effective self-attention computation in dense tasks 
 
 ## CNN
 - **Deformable Convolutional Networks[2017]** [[arxiv]](https://arxiv.org/abs/1703.06211)<br>
+- **GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond[2019]** [[arxiv]](https://arxiv.org/abs/1904.11492)<br>
+It's important to understand long-range dependency for visual tasks. NLNet(Non-Local Networks) and SENet(Squeeze-and-Exicitation Networks) can understand the global context using non local windows. In this papers, autors point out redundant computation of NLNet and fix it by meet SENet architecture to it.
 
 ## Survey 
 - **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>
+- 
 ## Other modules

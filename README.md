@@ -7,7 +7,8 @@ The Cascade network architecture for instance object detection. It's can fix the
 Authors point out parallel processing of cascade-RCNN that prevent effectivery use of box-head and mask-head. They addisonary propose some cascade architecture related to effectivery use of features in backbone and heads.
 
 ## Loss function
-- **Focal Loss for Dense Object Detection[2017]** [[arxiv]](https://arxiv.org/abs/1708.02002)<br>
+- **[RetinaNet]Focal Loss for Dense Object Detection[2017]** [[arxiv]](https://arxiv.org/abs/1708.02002)<br>
+
 
 ## Transfomers
 - **[Swin-Transfomer]Swin Transformer: Hierarchical Vision Transformer using Shifted Windows[2020]** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>

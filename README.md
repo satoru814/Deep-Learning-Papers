@@ -8,7 +8,7 @@ Authors point out parallel processing of cascade-RCNN that prevent effectivery u
 
 ## Loss function
 - **[RetinaNet]Focal Loss for Dense Object Detection[2017]** [[arxiv]](https://arxiv.org/abs/1708.02002)<br>
-
+One-Stage object detection(e.g. yolo, SSD) is suffer from foreground-background imbalance that cause meaningless loss from  easy background examples. Focal loss and RetinaNet is designed to address class imbalance by down-weighting easy examples.
 
 ## Transfomers
 - **[Swin-Transfomer]Swin Transformer: Hierarchical Vision Transformer using Shifted Windows[2020]** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>

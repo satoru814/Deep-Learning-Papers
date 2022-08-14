@@ -1,5 +1,4 @@
 # Object detection
-
 A paper list of object detection using deep learning.
 
 ## Cascade

@@ -23,7 +23,12 @@ It's important to understand long-range dependency for visual tasks. NLNet(Non-L
 - **[VAN] Visual Attention Network [2021]** [[arxiv]](https://arxiv.org/abs/2202.09741)<br>
 Attention mechanism can be regard as adaptive selecting process based on input features. Self-attention(e.g. Transfomer) is unsutable for adaptation in channel To further improve convolution-base-attention, they decompose a convolution into three parts(depth-wise conv, depth-wise dilated conv, point-wise conv). 
 
+## Object Detection
+- **Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks [2016]** [[arxiv]](https://arxiv.org/abs/1506.01497)
+
+
+
 ## Survey 
 - **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>
-- 
+ 
 ## Other modules

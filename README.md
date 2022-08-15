@@ -1,5 +1,5 @@
-# Deep Learning papers in Computer Vision.
-A paper list of object detection using deep learning.
+# Deep Learning Papers in Computer Vision.
+A paper list of deep learning in computer vision.
 
 ## Cascade
 - **[HTC, HTC++] Hybrid Task Cascade for Instance Segmentation[2020]** [[arxiv]](https://arxiv.org/abs/1901.07518)<br>

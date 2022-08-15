@@ -29,6 +29,7 @@ Attention mechanism can be regard as adaptive selecting process based on input f
 ## Object Detection
 - **Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks [2016]** [[arxiv]](https://arxiv.org/abs/1506.01497)
 Region-proposal and detection is the components of an two-stage object detetion(e.g. RCNNs, Fast-RCNNs). In Fast-RCNNs, Region-proposal is the bottleneck for real-time object detection. In this paper, Region Proposal Networks(RPNs) that share convolutional layers with detection is proposed.<br>  
+- **FCOS: Fully Convolutional One-Stage Object Detection [2019]** [[arxiv]](https://arxiv.org/abs/1904.01355)
 - **[DETR] End-to-End Object Detection with Transformers [2021]** [[arxiv]](https://arxiv.org/abs/2005.12872)
 - **Deformable DETR: Deformable Transformers for End-to-End Object Detection [2021]** [[arxiv]](https://arxiv.org/abs/2010.04159)
 

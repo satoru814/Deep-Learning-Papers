@@ -15,7 +15,7 @@ One-Stage object detection(e.g. yolo, SSD) is suffer from foreground-background 
 - **[Swin-Transfomer] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows[2020]** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
 Shift window Transfomer for effective self-attention computation in dense tasks is proposed. [ViT](https://arxiv.org/abs/2010.11929) adapted transfomer to image classification task by looking image as parted tokens. However, for dnese tasks(e.g. object detection and semantic segmentation), Their quandaric computation is impractical. Swin-transfomer can linear self-attention computation as image height and width and keep connection between image tokens.
 - **ConTNet: Why not use convolution and transformer at the same time?** [[arxiv]](https://arxiv.org/abs/2104.13497)
-- **[VAN] Visual Attention Network[2021]** [[arxiv]](https://arxiv.org/abs/2202.09741)
+- **[VAN] Visual Attention Network[2021]** [[arxiv]](https://arxiv.org/abs/2202.09741)<br>
 Attention mechanism can be regard as adaptive selecting process based on input features. Self-attention(e.g. Transfomer) is unsutable for adaptation in channel To further improve convolution-base-attention, they decompose a convolution into three parts(depth-wise conv, depth-wise dilated conv, point-wise conv). 
 
 ## CNN

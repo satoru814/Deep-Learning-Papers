@@ -10,9 +10,11 @@ Authors point out parallel processing of cascade-RCNN that prevent effectivery u
 - **[RetinaNet] Focal Loss for Dense Object Detection[2017]** [[arxiv]](https://arxiv.org/abs/1708.02002)<br>
 One-Stage object detection(e.g. yolo, SSD) is suffer from foreground-background imbalance that cause meaningless loss from  easy background examples. Focal loss and RetinaNet is designed to address class imbalance by down-weighting easy examples.
 
+
 ## Transfomers
 - **[Swin-Transfomer] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows[2020]** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
 Shift window Transfomer for effective self-attention computation in dense tasks is proposed. [ViT](https://arxiv.org/abs/2010.11929) adapted transfomer to image classification task by looking image as parted tokens. However, for dnese tasks(e.g. object detection and semantic segmentation), Their quandaric computation is impractical. Swin-transfomer can linear self-attention computation as image height and width and keep connection between image tokens.
+- **ConTNet: Why not use convolution and transformer at the same time?** [[arxiv]](https://arxiv.org/abs/2104.13497)
 
 ## CNN
 - **Deformable Convolutional Networks[2017]** [[arxiv]](https://arxiv.org/abs/1703.06211)<br>

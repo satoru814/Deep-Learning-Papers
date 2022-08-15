@@ -1,4 +1,4 @@
-# Object detection
+# Deep Learning papers in Computer Vision.
 A paper list of object detection using deep learning.
 
 ## Cascade

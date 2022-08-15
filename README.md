@@ -6,7 +6,7 @@ A paper list of deep learning in computer vision.
 The Cascade network architecture for instance object detection. It's can fix the drowback of Cascade-RCNN. 
 Authors point out parallel processing of cascade-RCNN that prevent effectivery use of box-head and mask-head. They addisonary propose some cascade architecture related to effectivery use of features in backbone and heads.
 
-## Loss function
+## Loss Function
 - **[RetinaNet] Focal Loss for Dense Object Detection [2017]** [[arxiv]](https://arxiv.org/abs/1708.02002)<br>
 One-Stage object detection(e.g. yolo, SSD) is suffer from foreground-background imbalance that cause meaningless loss from  easy background examples. Focal loss and RetinaNet is designed to address class imbalance by down-weighting easy examples.
 
@@ -15,6 +15,7 @@ One-Stage object detection(e.g. yolo, SSD) is suffer from foreground-background 
 - **[Swin-Transfomer] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [2020]** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
 Shift window Transfomer for effective self-attention computation in dense tasks is proposed. [ViT](https://arxiv.org/abs/2010.11929) adapted transfomer to image classification task by looking image as parted tokens. However, for dnese tasks(e.g. object detection and semantic segmentation), Their quandaric computation is impractical. Swin-transfomer can linear self-attention computation as image height and width and keep connection between image tokens.
 - **ConTNet: Why not use convolution and transformer at the same time?** [[arxiv]](https://arxiv.org/abs/2104.13497)
+- **Involution: Inverting the Inherence of Convolution for Visual Recognition[2021]** [[arxiv]](https://arxiv.org/abs/2103.06255)
 
 ## CNN
 - **Deformable Convolutional Networks [2017]** [[arxiv]](https://arxiv.org/abs/1703.06211)<br>
@@ -25,7 +26,7 @@ Attention mechanism can be regard as adaptive selecting process based on input f
 
 ## Object Detection
 - **Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks [2016]** [[arxiv]](https://arxiv.org/abs/1506.01497)
-
+Two-stage object detection methods for fast
 
 
 ## Survey 

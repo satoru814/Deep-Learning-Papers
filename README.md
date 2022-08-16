@@ -32,7 +32,7 @@ Region-proposal and detection is the components of an two-stage object detetion(
 - **FCOS: Fully Convolutional One-Stage Object Detection [2019]** [[arxiv]](https://arxiv.org/abs/1904.01355)
 - **[DETR] End-to-End Object Detection with Transformers [2021]** [[arxiv]](https://arxiv.org/abs/2005.12872)
 - **Deformable DETR: Deformable Transformers for End-to-End Object Detection [2021]** [[arxiv]](https://arxiv.org/abs/2010.04159)
-
+- **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection** [[arxiv]](https://arxiv.org/abs/2203.03605v2)
 ## Survey 
 - **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>
  

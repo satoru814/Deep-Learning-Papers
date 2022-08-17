@@ -39,6 +39,7 @@ Region-proposal and detection is the components of an two-stage object detetion(
 
 ## VAE
 - **Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)
+- **Zero-Shot Text-to-Image Generation** [[arxiv]](https://arxiv.org/abs/2102.12092)
 ## Survey 
 - **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>
  

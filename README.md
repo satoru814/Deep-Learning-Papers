@@ -53,5 +53,7 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 
 ## Survey 
 - **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>
- 
+
+## ??
+- **All Tokens Matter: Token Labeling for Training Better Vision Transformers** [[arxiv]](https://arxiv.org/abs/2104.10858)
 ## Other modules

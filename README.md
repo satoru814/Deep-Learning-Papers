@@ -47,7 +47,10 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 - **[MAE]Masked Autoencoders Are Scalable Vision Learners[2021]** [[arxiv]](https://arxiv.org/abs/2111.06377)
 - **mc-BEiT: Multi-choice Discretization for Image BERT Pre-training[2022]** [[arxiv]](https://arxiv.org/abs/2203.15371) 
 - **[VQ-KD]BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers[2022]** [[arxiv]](https://arxiv.org/abs/2208.06366)
-- 
+
+## KD
+- **Masked Feature Prediction for Self-Supervised Visual Pre-Training** [[arxiv]](https://arxiv.org/abs/2112.09133)
+
 ## Survey 
 - **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>
  

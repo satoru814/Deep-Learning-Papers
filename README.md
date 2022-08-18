@@ -46,7 +46,7 @@ Region-proposal and detection is the components of an two-stage object detetion(
 It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by pixel level low-dependency of a image. To overcome this dificulty, they use dVAE tokenize image patches to discrete laten codes. 
 - **[MAE]Masked Autoencoders Are Scalable Vision Learners[2021]** [[arxiv]](https://arxiv.org/abs/2111.06377)
 - **mc-BEiT: Multi-choice Discretization for Image BERT Pre-training[2022]** [[arxiv]](https://arxiv.org/abs/2203.15371) 
-- **BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers[2022]** [[arxiv]](https://arxiv.org/abs/2208.06366)
+- **[VQ-KD]BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers[2022]** [[arxiv]](https://arxiv.org/abs/2208.06366)
 - 
 ## Survey 
 - **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>

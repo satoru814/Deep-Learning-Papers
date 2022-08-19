@@ -42,6 +42,7 @@ Region-proposal and detection is the components of an two-stage object detetion(
 - **Zero-Shot Text-to-Image Generation** [[arxiv]](https://arxiv.org/abs/2102.12092)
 
 ## MIM
+- **Generative Pretraining From Pixels**[[Semantic Scholar]][(https://www.semanticscholar.org/paper/Generative-Pretraining-From-Pixels-Chen-Radford/bc022dbb37b1bbf3905a7404d19c03ccbf6b81a8)
 - **BEiT: BERT Pre-Training of Image Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2106.08254)<br>
 It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by pixel level low-dependency of a image. To overcome this dificulty, they use dVAE tokenize image patches to discrete laten codes. 
 - **[MAE]Masked Autoencoders Are Scalable Vision Learners[2021]** [[arxiv]](https://arxiv.org/abs/2111.06377)

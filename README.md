@@ -62,6 +62,11 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 - **CBAM: Convolutional Block Attention Module[2018]** [[arxiv]](https://arxiv.org/abs/1807.06521)
 - **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>
 
+## Augmentation
+- CutMix
+- Mixup
+- RandAug
+
 ## ??
-- **[LV-ViT] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)
+- **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)
 ## Other modules

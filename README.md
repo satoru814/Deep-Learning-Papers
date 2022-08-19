@@ -51,7 +51,7 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 ## KD
 - **Masked Feature Prediction for Self-Supervised Visual Pre-Training** [[arxiv]](https://arxiv.org/abs/2112.09133)
 
-## Survey 
+## CNN Attention 
 - **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>
 
 ## ??

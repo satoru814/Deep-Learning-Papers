@@ -20,6 +20,7 @@ Shift window Transfomer for effective self-attention computation in dense tasks 
 - **How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2106.10270)
 
 ## VQ
+- **Neural Discrete Representation Learning[2017]** [[arxiv]](https://arxiv.org/abs/1711.00937)
 - **Vector-quantized Image Modeling with Improved VQGAN [2021]** [[arxic]](https://arxiv.org/abs/2110.04627)
 
 ## CNN

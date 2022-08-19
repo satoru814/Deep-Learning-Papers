@@ -52,6 +52,7 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 - **Masked Feature Prediction for Self-Supervised Visual Pre-Training** [[arxiv]](https://arxiv.org/abs/2112.09133)
 
 ## CNN Attention 
+- **CBAM: Convolutional Block Attention Module[2018]** [[arxiv]](https://arxiv.org/abs/1807.06521)
 - **An Attention Module for Convolutional Neural Networks** [[arxiv]](https://arxiv.org/abs/2108.08205)<br>
 
 ## ??

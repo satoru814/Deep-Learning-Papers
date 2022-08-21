@@ -41,10 +41,10 @@ Region-proposal and detection is the components of an two-stage object detetion(
 - **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection** [[arxiv]](https://arxiv.org/abs/2203.03605v2)
 
 ## GAN
-- **[VQGAN]
+- **[VQGAN] Taming Transformers for High-Resolution Image Synthesis[2021]** [[arxiv]](https://arxiv.org/abs/2012.09841v1)
 
 ## VAE
-- **[VQVQE] Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)
+- **[VQVAE] Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)
 - **Zero-Shot Text-to-Image Generation** [[arxiv]](https://arxiv.org/abs/2102.12092)
 
 ## MIM

@@ -27,6 +27,7 @@ Shift window Transfomer for effective self-attention computation in dense tasks 
 - **How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2106.10270)<br>
 - **Rethinking Spatial Dimensions of Vision Transformers [2021]** [[arxiv]](https://arxiv.org/abs/2103.16302)<br>
 - **[DeiT]Training data-efficient image transformers & distillation through attention [2021]** [[arxiv]](https://arxiv.org/abs/2103.16302)<br>
+- **Global Context Vision Transformers [2022]** [[arxiv]](https://arxiv.org/abs/2206.09959v1)
 
 ## VQ
 - **Neural Discrete Representation Learning[2017]** [[arxiv]](https://arxiv.org/abs/1711.00937)<br>

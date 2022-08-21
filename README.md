@@ -11,7 +11,7 @@ Authors point out parallel processing of cascade-RCNN that prevent effectivery u
 One-Stage object detection(e.g. yolo, SSD) is suffer from foreground-background imbalance that cause meaningless loss from  easy background examples. Focal loss and RetinaNet is designed to address class imbalance by down-weighting easy examples.<br>  
 
 ## RNN
-- **Pixel Recurrent Neural Networks [2016]** [[arxiv](https://arxiv.org/abs/1601.06759)
+- **Pixel Recurrent Neural Networks [2016]** [[arxiv](https://arxiv.org/abs/1601.06759)sakamo
 
 ## Transfomer
 - **Image Transformer [2018]** [[arxiv]](https://arxiv.org/abs/1802.05751)
@@ -42,18 +42,24 @@ Attention mechanism can be regard as adaptive selecting process based on input f
 - **Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks [2016]** [[arxiv]](https://arxiv.org/abs/1506.01497)
 Region-proposal and detection is the components of an two-stage object detetion(e.g. RCNNs, Fast-RCNNs). In Fast-RCNNs, Region-proposal is the bottleneck for real-time object detection. In this paper, Region Proposal Networks(RPNs) that share convolutional layers with detection is proposed.<br>  
 - **FCOS: Fully Convolutional One-Stage Object Detection [2019]** [[arxiv]](https://arxiv.org/abs/1904.01355)
+One-stage object detection using FCN.
 - **[DETR] End-to-End Object Detection with Transformers [2021]** [[arxiv]](https://arxiv.org/abs/2005.12872)
+Object detection using transfomer.
 - **Deformable DETR: Deformable Transformers for End-to-End Object Detection [2021]** [[arxiv]](https://arxiv.org/abs/2010.04159)
-- **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection** [[arxiv]](https://arxiv.org/abs/2203.03605v2)
+- **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection [2021]** [[arxiv]](https://arxiv.org/abs/2203.03605v2)
 
 ## GAN
 - **PixelSNAIL: An Improved Autoregressive Generative Model [2017]** [[arxiv]](https://arxiv.org/abs/1712.09763)
-- - **not-so-BigGAN: Generating High-Fidelity Images on Small Compute with Wavelet-based Super-Resolution [2020]**[[arxiv]](https://arxiv.org/abs/2009.04433)
+sota of autoregressive generative models in 2017
+- **not-so-BigGAN: Generating High-Fidelity Images on Small Compute with Wavelet-based Super-Resolution [2020]**[[arxiv]](https://arxiv.org/abs/2009.04433)
+GAN with wavelet combarsion for a image contexts
 - **[VQGAN] Taming Transformers for High-Resolution Image Synthesis[2021]** [[arxiv]](https://arxiv.org/abs/2012.09841v1)[READ]
+They use transfomer to improve to get more large-scale context of image for latent code efficiency from VQVAE.
 
 ## VAE
 - **[VQVAE] Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)[READ]
 - **Generating Diverse High-Fidelity Images with VQ-VAE-2 [2019]** [[arxiv]](https://arxiv.org/abs/1906.00446)
+Extend VQVAE to use hierarchy of learned representations.
 - **Zero-Shot Text-to-Image Generation** [[arxiv]](https://arxiv.org/abs/2102.12092)[READ]
 
 ## MIM
@@ -75,7 +81,9 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 - CutMix
 - Mixup
 - RandAug
-- 
+Random augmentation.
+
 ## ??
 - **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)[READ]
+Token labeling(assign label for each patch of ViT and compute loss for all of them in ViT) is proposed for more context-rich training. 
 ## Other modules

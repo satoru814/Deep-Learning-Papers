@@ -51,6 +51,7 @@ Region-proposal and detection is the components of an two-stage object detetion(
 
 ## VAE
 - **[VQVAE] Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)[READ]
+- **Generating Diverse High-Fidelity Images with VQ-VAE-2 [2019]** [[arxiv]](https://arxiv.org/abs/1906.00446)
 - **Zero-Shot Text-to-Image Generation** [[arxiv]](https://arxiv.org/abs/2102.12092)[READ]
 
 ## MIM

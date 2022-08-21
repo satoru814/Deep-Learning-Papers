@@ -88,4 +88,7 @@ Random augmentation.
 ## ??
 - **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)[READ]<br>
 Token labeling(assign label for each patch of ViT and compute loss for all of them in ViT) is proposed for more context-rich training. 
-## Other modules
+
+## Other
+- **Pure Transformers are Powerful Graph Learners [2022]** [[arxiv]](https://arxiv.org/abs/2207.02505)
+

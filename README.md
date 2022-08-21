@@ -10,6 +10,9 @@ Authors point out parallel processing of cascade-RCNN that prevent effectivery u
 - **[RetinaNet] Focal Loss for Dense Object Detection [2017]** [[arxiv]](https://arxiv.org/abs/1708.02002)<br>
 One-Stage object detection(e.g. yolo, SSD) is suffer from foreground-background imbalance that cause meaningless loss from  easy background examples. Focal loss and RetinaNet is designed to address class imbalance by down-weighting easy examples.<br>  
 
+## RNN
+- **Pixel Recurrent Neural Networks [2016]** [[arxiv](https://arxiv.org/abs/1601.06759)
+
 ## Transfomer
 - **Image Transformer [2018]** [[arxiv]](https://arxiv.org/abs/1802.05751)
 - **Generating Long Sequences with Sparse Transformers [2019]** [[arxiv]](https://arxiv.org/abs/1904.10509)

@@ -13,10 +13,11 @@ One-Stage object detection(e.g. yolo, SSD) is suffer from foreground-background 
 ## Transfomer
 - **Image Transformer [2018]** [[arxiv]](https://arxiv.org/abs/1802.05751)
 - **Generating Long Sequences with Sparse Transformers [2019]** [[arxiv]](https://arxiv.org/abs/1904.10509)
+
 ## ViT
 - **[Swin-Transfomer] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [2020]** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
 Shift window Transfomer for effective self-attention computation in dense tasks is proposed. [ViT](https://arxiv.org/abs/2010.11929) adapted transfomer to image classification task by looking image as parted tokens. However, for dense tasks(e.g. object detection and semantic segmentation), their quandaric computation is impractical. Swin-transfomer can linear self-attention computation as image height and width and keep connection between image tokens.<br>  
-- **ConTNet: Why not use convolution and transformer at the same time? [2021]** [[arxiv]](https://arxiv.org/abs/2104.13497)
+- **ConTNet: Why not use convolution and transformer at the same time? [2021]** [[arxiv]](https://arxiv.org/abs/2104.13497)[READ]
 - **Involution: Inverting the Inherence of Convolution for Visual Recognition [2021]** [[arxiv]](https://arxiv.org/abs/2103.06255)
 - **Emerging Properties in Self-Supervised Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.14294)
 - **How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2106.10270)
@@ -25,7 +26,7 @@ Shift window Transfomer for effective self-attention computation in dense tasks 
 
 ## VQ
 - **Neural Discrete Representation Learning[2017]** [[arxiv]](https://arxiv.org/abs/1711.00937)
-- **Vector-quantized Image Modeling with Improved VQGAN [2021]** [[arxic]](https://arxiv.org/abs/2110.04627)
+- **Vector-quantized Image Modeling with Improved VQGAN [2021]** [[arxic]](https://arxiv.org/abs/2110.04627)[READ]
 
 ## CNN
 - **Deformable Convolutional Networks [2017]** [[arxiv]](https://arxiv.org/abs/1703.06211)<br>  
@@ -46,19 +47,19 @@ Region-proposal and detection is the components of an two-stage object detetion(
 - **[VQGAN] Taming Transformers for High-Resolution Image Synthesis[2021]** [[arxiv]](https://arxiv.org/abs/2012.09841v1)
 
 ## VAE
-- **[VQVAE] Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)
-- **Zero-Shot Text-to-Image Generation** [[arxiv]](https://arxiv.org/abs/2102.12092)
+- **[VQVAE] Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)[READ]
+- **Zero-Shot Text-to-Image Generation** [[arxiv]](https://arxiv.org/abs/2102.12092)[READ]
 
 ## MIM
 - **Generative Pretraining From Pixels**[[Semantic Scholar]][(https://www.semanticscholar.org/paper/Generative-Pretraining-From-Pixels-Chen-Radford/bc022dbb37b1bbf3905a7404d19c03ccbf6b81a8)
 - **BEiT: BERT Pre-Training of Image Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2106.08254)<br>
 It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by pixel level low-dependency of a image. To overcome this dificulty, they use dVAE tokenize image patches to discrete laten codes. 
-- **[MAE]Masked Autoencoders Are Scalable Vision Learners[2021]** [[arxiv]](https://arxiv.org/abs/2111.06377)
+- **[MAE]Masked Autoencoders Are Scalable Vision Learners[2021]** [[arxiv]](https://arxiv.org/abs/2111.06377)[READ]
 - **mc-BEiT: Multi-choice Discretization for Image BERT Pre-training[2022]** [[arxiv]](https://arxiv.org/abs/2203.15371) 
-- **[VQ-KD]BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers[2022]** [[arxiv]](https://arxiv.org/abs/2208.06366)
+- **[VQ-KD]BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers[2022]** [[arxiv]](https://arxiv.org/abs/2208.06366)[READ]
 
 ## KD
-- **Masked Feature Prediction for Self-Supervised Visual Pre-Training** [[arxiv]](https://arxiv.org/abs/2112.09133)
+- **Masked Feature Prediction for Self-Supervised Visual Pre-Training** [[arxiv]](https://arxiv.org/abs/2112.09133)[READ]
 
 ## CNN Attention 
 - **CBAM: Convolutional Block Attention Module[2018]** [[arxiv]](https://arxiv.org/abs/1807.06521)
@@ -70,5 +71,5 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 - RandAug
 
 ## ??
-- **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)
+- **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)[READ]
 ## Other modules

@@ -47,7 +47,9 @@ Region-proposal and detection is the components of an two-stage object detetion(
 - **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection** [[arxiv]](https://arxiv.org/abs/2203.03605v2)
 
 ## GAN
-- **[VQGAN] Taming Transformers for High-Resolution Image Synthesis[2021]** [[arxiv]](https://arxiv.org/abs/2012.09841v1)
+- **PixelSNAIL: An Improved Autoregressive Generative Model [2017]** [[arxiv]](https://arxiv.org/abs/1712.09763)
+- - **not-so-BigGAN: Generating High-Fidelity Images on Small Compute with Wavelet-based Super-Resolution [2020]**[[arxiv]](https://arxiv.org/abs/2009.04433)
+- **[VQGAN] Taming Transformers for High-Resolution Image Synthesis[2021]** [[arxiv]](https://arxiv.org/abs/2012.09841v1)[READ]
 
 ## VAE
 - **[VQVAE] Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)[READ]
@@ -73,7 +75,7 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 - CutMix
 - Mixup
 - RandAug
-
+- 
 ## ??
 - **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)[READ]
 ## Other modules

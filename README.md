@@ -21,13 +21,13 @@ Extend transfomer to image to use sparse transfomers.
 ## ViT
 - **[Swin-Transfomer] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [2020]** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
 Shift window Transfomer for effective self-attention computation in dense tasks is proposed. [ViT](https://arxiv.org/abs/2010.11929) adapted transfomer to image classification task by looking image as parted tokens. However, for dense tasks(e.g. object detection and semantic segmentation), their quandaric computation is impractical. Swin-transfomer can linear self-attention computation as image height and width and keep connection between image tokens.<br>  
-- **ConTNet: Why not use convolution and transformer at the same time? [2021]** [[arxiv]](https://arxiv.org/abs/2104.13497)[READ]<br>
+- **[ConTNet] ConTNet: Why not use convolution and transformer at the same time? [2021]** [[arxiv]](https://arxiv.org/abs/2104.13497)[READ]<br>
 - **Involution: Inverting the Inherence of Convolution for Visual Recognition [2021]** [[arxiv]](https://arxiv.org/abs/2103.06255)<br>
 - **Emerging Properties in Self-Supervised Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.14294)<br>
 - **How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2106.10270)<br>
 - **Rethinking Spatial Dimensions of Vision Transformers [2021]** [[arxiv]](https://arxiv.org/abs/2103.16302)<br>
 - **[DeiT]Training data-efficient image transformers & distillation through attention [2021]** [[arxiv]](https://arxiv.org/abs/2103.16302)<br>
-- **Global Context Vision Transformers [2022]** [[arxiv]](https://arxiv.org/abs/2206.09959v1)
+- **[GC-ViT] Global Context Vision Transformers [2022]** [[arxiv]](https://arxiv.org/abs/2206.09959v1)
 
 ## VQ
 - **Neural Discrete Representation Learning[2017]** [[arxiv]](https://arxiv.org/abs/1711.00937)<br>
@@ -35,23 +35,23 @@ Shift window Transfomer for effective self-attention computation in dense tasks 
 
 ## CNN
 - **Deformable Convolutional Networks [2017]** [[arxiv]](https://arxiv.org/abs/1703.06211)<br>  
-- **GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond [2019]** [[arxiv]](https://arxiv.org/abs/1904.11492)<br>
+- **[GCNet] GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond [2019]** [[arxiv]](https://arxiv.org/abs/1904.11492)<br>
 It's important to understand long-range dependency for visual tasks. NLNet(Non-Local Networks) and SENet(Squeeze-and-Exicitation Networks) can understand the global context using non local windows. In this papers, autors point out redundant computation of NLNet and fix it by meet SENet architecture to it.<br>  
 - **[VAN] Visual Attention Network [2021]** [[arxiv]](https://arxiv.org/abs/2202.09741)<br>
 Attention mechanism can be regard as adaptive selecting process based on input features. Self-attention(e.g. Transfomer) is unsutable for adaptation in channel To further improve convolution-base-attention, they decompose a convolution into three parts(depth-wise conv, depth-wise dilated conv, point-wise conv).<br>   
 
 ## Object Detection
-- **Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks [2016]** [[arxiv]](https://arxiv.org/abs/1506.01497)<br>
+- **[Faster R-CNN] Faster R-CNN: Towards Real-Time ObjectDetection with Region Proposal Networks [2016]** [[arxiv]](https://arxiv.org/abs/1506.01497)<br>
 Region-proposal and detection is the components of an two-stage object detetion(e.g. RCNNs, Fast-RCNNs). In Fast-RCNNs, Region-proposal is the bottleneck for real-time object detection. In this paper, Region Proposal Networks(RPNs) that share convolutional layers with detection is proposed.<br>  
-- **FCOS: Fully Convolutional One-Stage Object Detection [2019]** [[arxiv]](https://arxiv.org/abs/1904.01355)<br>
+- **[FCOS] FCOS: Fully Convolutional One-Stage Object Detection [2019]** [[arxiv]](https://arxiv.org/abs/1904.01355)<br>
 One-stage object detection using FCN.
 - **[DETR] End-to-End Object Detection with Transformers [2021]** [[arxiv]](https://arxiv.org/abs/2005.12872)<br>
 Object detection using transfomer.
 - **Deformable DETR: Deformable Transformers for End-to-End Object Detection [2021]** [[arxiv]](https://arxiv.org/abs/2010.04159)<br>
-- **DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection [2021]** [[arxiv]](https://arxiv.org/abs/2203.03605v2)<br>
+- **[DINO] DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection [2021]** [[arxiv]](https://arxiv.org/abs/2203.03605v2)<br>
 
 ## GAN
-- **PixelSNAIL: An Improved Autoregressive Generative Model [2017]** [[arxiv]](https://arxiv.org/abs/1712.09763)<br>
+- **[PixelSNAIL] PixelSNAIL: An Improved Autoregressive Generative Model [2017]** [[arxiv]](https://arxiv.org/abs/1712.09763)<br>
 sota of autoregressive generative models in 2017
 - **not-so-BigGAN: Generating High-Fidelity Images on Small Compute with Wavelet-based Super-Resolution [2020]**[[arxiv]](https://arxiv.org/abs/2009.04433)<br>
 GAN with wavelet combarsion for a image contexts

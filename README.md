@@ -10,9 +10,6 @@ Authors point out parallel processing of cascade-RCNN that prevent effectivery u
 - **[RetinaNet] Focal Loss for Dense Object Detection [2017]** [[arxiv]](https://arxiv.org/abs/1708.02002)<br>
 One-Stage object detection(e.g. yolo, SSD) is suffer from foreground-background imbalance that cause meaningless loss from  easy background examples. Focal loss and RetinaNet is designed to address class imbalance by down-weighting easy examples.<br>  
 
-## RNN
-- **Pixel Recurrent Neural Networks [2016]** [[arxiv](https://arxiv.org/abs/1601.06759)<br>
-
 ## Transfomer
 - **Image Transformer [2018]** [[arxiv]](https://arxiv.org/abs/1802.05751)<br>
 - **Generating Long Sequences with Sparse Transformers [2019]** [[arxiv]](https://arxiv.org/abs/1904.10509)<br>
@@ -60,9 +57,10 @@ GAN with wavelet combarsion for a image contexts
 They use transfomer to improve to get more large-scale context of image for latent code efficiency from VQVAE.
 
 ## VAE
+- **[Pixel CNN]Pixel Recurrent Neural Networks [2016]** [[arxiv](https://arxiv.org/abs/1601.06759)<br>
 - **[VQVAE] Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)[READ]
 - **Generating Diverse High-Fidelity Images with VQ-VAE-2 [2019]** [[arxiv]](https://arxiv.org/abs/1906.00446)<br>
-Extend VQVAE to use hierarchy of learned representations.
+Extend VQVAE to use hierarchy of learned representations. 
 - **Zero-Shot Text-to-Image Generation** [[arxiv]](https://arxiv.org/abs/2102.12092)[READ]
 
 ## MIM

@@ -58,6 +58,7 @@ They use transfomer to improve to get more large-scale context of image for late
 
 ## VAE
 - **[Pixel CNN]Pixel Recurrent Neural Networks [2016]** [[arxiv](https://arxiv.org/abs/1601.06759)<br>
+Several types of RNN and CNN for image generation is introduced.
 - **[VQVAE] Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)[READ]
 - **Generating Diverse High-Fidelity Images with VQ-VAE-2 [2019]** [[arxiv]](https://arxiv.org/abs/1906.00446)<br>[READ]
 Extend VQVAE to use hierarchy of learned representations. 

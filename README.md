@@ -57,10 +57,11 @@ GAN with wavelet combarsion for a image contexts
 They use transfomer to improve to get more large-scale context of image for latent code efficiency from VQVAE.
 
 ## AutoRegressive model
+- **[NADE] Neural Autoregressive Distribution Estimation** [[arxiv]](https://arxiv.org/abs/1605.02226)
 - **Generative Image Modeling Using Spatial LSTMs [2015]** [[arxiv]](https://arxiv.org/abs/1506.03478)<br>
-## VAE
-- **[Pixel CNN]Pixel Recurrent Neural Networks [2016]** [[arxiv](https://arxiv.org/abs/1601.06759)<br>
+- **[PixelCNN] Pixel Recurrent Neural Networks [2016]** [[arxiv](https://arxiv.org/abs/1601.06759)<br>[READ]
 Several types of RNN and CNN for image generation is introduced.
+## VAE
 - **[VQVAE] Discrete Variational Autoencoders** [[arxiv]](https://arxiv.org/abs/1609.02200)[READ]
 - **Generating Diverse High-Fidelity Images with VQ-VAE-2 [2019]** [[arxiv]](https://arxiv.org/abs/1906.00446)<br>[READ]
 Extend VQVAE to use hierarchy of learned representations. 
@@ -84,7 +85,7 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 ## Augmentation
 - CutMix
 - Mixup
-- **RandAugment: Practical automated data augmentation with a reduced search space [2019]** [[arxiv]](https://arxiv.org/abs/1909.13719)
+- **RandAugment: Practical automated data augmentation with a reduced search space [2019]** [[arxiv]](https://arxiv.org/abs/1909.13719) [READ]
 Random select and magnitude of transforms(augmentation) is suggested in place of previous data augmentation strategy(e.g. AutoAug, FastAug)
 
 ## ??
@@ -92,5 +93,4 @@ Random select and magnitude of transforms(augmentation) is suggested in place of
 Token labeling(assign label for each patch of ViT and compute loss for all of them in ViT) is proposed for more context-rich training. 
 
 ## Other
-- **Pure Transformers are Powerful Graph Learners [2022]** [[arxiv]](https://arxiv.org/abs/2207.02505)
-
+- **Pure Transformers are Powerful Graph Learners [2022]** [[arxiv]](https://arxiv.org/abs/2207.02505) [READ]

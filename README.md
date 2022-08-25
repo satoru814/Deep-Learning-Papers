@@ -56,6 +56,8 @@ GAN with wavelet combarsion for a image contexts
 - **[VQGAN] Taming Transformers for High-Resolution Image Synthesis[2021]** [[arxiv]](https://arxiv.org/abs/2012.09841v1)[READ]<br>
 They use transfomer to improve to get more large-scale context of image for latent code efficiency from VQVAE.
 
+## AutoRegressive model
+- **Generative Image Modeling Using Spatial LSTMs [2015]** [[arxiv]](https://arxiv.org/abs/1506.03478)<br>
 ## VAE
 - **[Pixel CNN]Pixel Recurrent Neural Networks [2016]** [[arxiv](https://arxiv.org/abs/1601.06759)<br>
 Several types of RNN and CNN for image generation is introduced.
@@ -82,8 +84,8 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 ## Augmentation
 - CutMix
 - Mixup
-- RandAug
-Random augmentation.
+- **RandAugment: Practical automated data augmentation with a reduced search space [2019]** [[arxiv]](https://arxiv.org/abs/1909.13719)
+Random select and magnitude of transforms(augmentation) is suggested in place of previous data augmentation strategy(e.g. AutoAug, FastAug)
 
 ## ??
 - **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)[READ]<br>

@@ -14,10 +14,14 @@ One-Stage object detection(e.g. yolo, SSD) is suffer from foreground-background 
 - **Image Transformer [2018]** [[arxiv]](https://arxiv.org/abs/1802.05751)<br>
 - **Generating Long Sequences with Sparse Transformers [2019]** [[arxiv]](https://arxiv.org/abs/1904.10509)<br>
 Extend transfomer to image to use sparse transfomers.
+- **VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts [2021]** [[arxiv]](https://arxiv.org/abs/2111.02358)<br>
+Multiway Transfomer
 
 ## ViT
 - **[Swin-Transfomer] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [2020]** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
 Shift window Transfomer for effective self-attention computation in dense tasks is proposed. [ViT](https://arxiv.org/abs/2010.11929) adapted transfomer to image classification task by looking image as parted tokens. However, for dense tasks(e.g. object detection and semantic segmentation), their quandaric computation is impractical. Swin-transfomer can linear self-attention computation as image height and width and keep connection between image tokens.<br>  
+- **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)[READ]<br>
+Token labeling(assign label for each patch of ViT and compute loss for all of them in ViT) is proposed for more context-rich training. 
 - **[ConTNet] ConTNet: Why not use convolution and transformer at the same time? [2021]** [[arxiv]](https://arxiv.org/abs/2104.13497)[READ]<br>
 - **Involution: Inverting the Inherence of Convolution for Visual Recognition [2021]** [[arxiv]](https://arxiv.org/abs/2103.06255)<br>
 - **Emerging Properties in Self-Supervised Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.14294)<br>
@@ -87,10 +91,6 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 - Mixup
 - **RandAugment: Practical automated data augmentation with a reduced search space [2019]** [[arxiv]](https://arxiv.org/abs/1909.13719) [READ]
 Random select and magnitude of transforms(augmentation) is suggested in place of previous data augmentation strategy(e.g. AutoAug, FastAug)
-
-## ??
-- **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)[READ]<br>
-Token labeling(assign label for each patch of ViT and compute loss for all of them in ViT) is proposed for more context-rich training. 
 
 ## Other
 - **Pure Transformers are Powerful Graph Learners [2022]** [[arxiv]](https://arxiv.org/abs/2207.02505) [READ]

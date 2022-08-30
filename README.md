@@ -1,6 +1,10 @@
 # Deep Learning Papers in Computer Vision.
 A paper list of deep learning in computer vision.
 
+## Multimodal
+- **[CoCa] Contrastive Captioners are Image-Text Foundation Models [2022]** [[arxiv]](https://arxiv.org/abs/2205.01917)
+- **[MetaLM] Language models are general-purpose interfaces [2022]** [[arxiv]](https://arxiv.org/abs/2206.06336)
+- **[BEiT-3] Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks [2022]** [[arxiv]](https://arxiv.org/abs/2208.10442v1)<br>
 ## Cascade
 - **[HTC, HTC++] Hybrid Task Cascade for Instance Segmentation [2020]** [[arxiv]](https://arxiv.org/abs/1901.07518)<br>
 The Cascade network architecture for instance object detection. It's can fix the drowback of Cascade-RCNN. 
@@ -19,7 +23,8 @@ Multiway Transfomer
 
 ## ViT
 - **[Swin-Transfomer] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [2020]** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
-Shift window Transfomer for effective self-attention computation in dense tasks is proposed. [ViT](https://arxiv.org/abs/2010.11929) adapted transfomer to image classification task by looking image as parted tokens. However, for dense tasks(e.g. object detection and semantic segmentation), their quandaric computation is impractical. Swin-transfomer can linear self-attention computation as image height and width and keep connection between image tokens.<br>  
+Shift window Transfomer for effective self-attention computation in dense tasks is proposed. [ViT](https://arxiv.org/abs/2010.11929) adapted transfomer to image classification task by looking image as parted tokens. However, for dense tasks(e.g. object detection and semantic segmentation), their quandaric computation is impractical. Swin-transfomer can linear self-attention computation as image height and width and keep connection between image tokens.<br> 
+- **[ViT-giant] Scaling Vision Transformers [2021]** [[arxiv]](https://arxiv.org/abs/2106.04560)
 - **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)[READ]<br>
 Token labeling(assign label for each patch of ViT and compute loss for all of them in ViT) is proposed for more context-rich training. 
 - **[ConTNet] ConTNet: Why not use convolution and transformer at the same time? [2021]** [[arxiv]](https://arxiv.org/abs/2104.13497)[READ]<br>
@@ -50,7 +55,7 @@ One-stage object detection using FCN.
 - **[DETR] End-to-End Object Detection with Transformers [2021]** [[arxiv]](https://arxiv.org/abs/2005.12872)<br>
 Object detection using transfomer.
 - **Deformable DETR: Deformable Transformers for End-to-End Object Detection [2021]** [[arxiv]](https://arxiv.org/abs/2010.04159)<br>
-- **[DINO] DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection [2021]** [[arxiv]](https://arxiv.org/abs/2203.03605v2)<br>
+- **[DINO] DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection [2021]** [[arxiv]](https://arxiv.org/abs/2203.03605v2)<br>
 
 ## GAN
 - **[PixelSNAIL] PixelSNAIL: An Improved Autoregressive Generative Model [2017]** [[arxiv]](https://arxiv.org/abs/1712.09763)<br>

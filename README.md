@@ -2,7 +2,7 @@
 A paper list of deep learning in computer vision.
 
 ## Multimodal
-- **[CoCa] Contrastive Captioners are Image-Text Foundation Models [2022]** [[arxiv]](https://arxiv.org/abs/2205.01917)
+- **[CoCa] Contrastive Captioners are Image-Text Foundation Models [2022]** [[arxiv]](https://arxiv.org/abs/2205.01917)[READ]
 - **[MetaLM] Language models are general-purpose interfaces [2022]** [[arxiv]](https://arxiv.org/abs/2206.06336)
 - **[BEiT-3] Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks [2022]** [[arxiv]](https://arxiv.org/abs/2208.10442v1)[READ]<br>
 

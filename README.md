@@ -4,7 +4,8 @@ A paper list of deep learning in computer vision.
 ## Multimodal
 - **[CoCa] Contrastive Captioners are Image-Text Foundation Models [2022]** [[arxiv]](https://arxiv.org/abs/2205.01917)
 - **[MetaLM] Language models are general-purpose interfaces [2022]** [[arxiv]](https://arxiv.org/abs/2206.06336)
-- **[BEiT-3] Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks [2022]** [[arxiv]](https://arxiv.org/abs/2208.10442v1)<br>
+- **[BEiT-3] Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks [2022]** [[arxiv]](https://arxiv.org/abs/2208.10442v1)[READ]<br>
+
 ## Cascade
 - **[HTC, HTC++] Hybrid Task Cascade for Instance Segmentation [2020]** [[arxiv]](https://arxiv.org/abs/1901.07518)<br>
 The Cascade network architecture for instance object detection. It's can fix the drowback of Cascade-RCNN. 
@@ -25,6 +26,9 @@ Multiway Transfomer
 - **[Swin-Transfomer] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [2020]** [[arxiv]](https://arxiv.org/abs/2103.14030)<br>
 Shift window Transfomer for effective self-attention computation in dense tasks is proposed. [ViT](https://arxiv.org/abs/2010.11929) adapted transfomer to image classification task by looking image as parted tokens. However, for dense tasks(e.g. object detection and semantic segmentation), their quandaric computation is impractical. Swin-transfomer can linear self-attention computation as image height and width and keep connection between image tokens.<br> 
 - **[ViT-giant] Scaling Vision Transformers [2021]** [[arxiv]](https://arxiv.org/abs/2106.04560)
+learning in JFT data
+- **Exploring the Limits of Weakly Supervised Pretraining [2018]** [[arxiv]]](https://arxiv.org/abs/1805.00932)
+learning in Instagrams data
 - **[LV-ViT][tokens-labelling] All Tokens Matter: Token Labeling for Training Better Vision Transformers[2021]** [[arxiv]](https://arxiv.org/abs/2104.10858)[READ]<br>
 Token labeling(assign label for each patch of ViT and compute loss for all of them in ViT) is proposed for more context-rich training. 
 - **[ConTNet] ConTNet: Why not use convolution and transformer at the same time? [2021]** [[arxiv]](https://arxiv.org/abs/2104.13497)[READ]<br>
@@ -99,3 +103,4 @@ Random select and magnitude of transforms(augmentation) is suggested in place of
 
 ## Other
 - **Pure Transformers are Powerful Graph Learners [2022]** [[arxiv]](https://arxiv.org/abs/2207.02505) [READ]
+- **L2D2: Learnable Line Detector and Descriptor [2021]** [[arxiv]](https://www.researchgate.net/publication/355340221_L2D2_Learnable_Line_Detector_and_Descriptor)

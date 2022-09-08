@@ -8,6 +8,7 @@ A paper list of deep learning in computer vision.
 - **[BEiT-3] Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks [2022]** [[arxiv]](https://arxiv.org/abs/2208.10442v1)[READ]<br>
 
 ##Learning BIGDATA
+- **[JFT-300M] Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [2017]** [[arxiv]](https://arxiv.org/abs/1707.02968)
 - **Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [2017]** [[arxiv]](https://arxiv.org/abs/1706.02677)<br>
 Training with big minibatch(8k)
 - **Exploring the Limits of Weakly Supervised Pretraining [2018]** [[arxiv]]](https://arxiv.org/abs/1805.00932)<br>

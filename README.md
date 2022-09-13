@@ -1,6 +1,8 @@
 # Deep Learning Papers in Computer Vision.
 A paper list of deep learning in computer vision.
 
+## Distributed training
+- **Communication-Efficient Distributed Deep Learning: A Comprehensive Survey** [[arxiv]](https://arxiv.org/abs/2003.06307)
 ## Multimodal
 - **[CLIP] Learning Transferable Visual Models From Natural Language Supervision** [[arxiv]](https://arxiv.org/abs/2103.00020)
 - **[CoCa] Contrastive Captioners are Image-Text Foundation Models [2022]** [[arxiv]](https://arxiv.org/abs/2205.01917)[READ]
@@ -8,8 +10,10 @@ A paper list of deep learning in computer vision.
 - **[BEiT-3] Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks [2022]** [[arxiv]](https://arxiv.org/abs/2208.10442v1)[READ]<br>
 
 ##Learning BIGDATA
-- **[YFCC-100M] YFCC100M: The New Data in Multimedia Research [[arxiv]](https://arxiv.org/abs/1503.01817)
+- **[YFCC-100M] YFCC100M: The New Data in Multimedia Research** [[arxiv]](https://arxiv.org/abs/1503.01817)
+A early work on making and evaluating large dataset(100M images) for various deep learninig tasks.
 - **[JFT-300M] Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [2017]** [[arxiv]](https://arxiv.org/abs/1707.02968)
+The effect of dataset size is investigated. JFT-300M is made from web search and labeling algolithm. Accordings to their ablative study, larger dataset pre-training improve model performance logarithmically.
 - **Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [2017]** [[arxiv]](https://arxiv.org/abs/1706.02677)<br>
 Training with big minibatch(8k)
 - **Exploring the Limits of Weakly Supervised Pretraining [2018]** [[arxiv]]](https://arxiv.org/abs/1805.00932)<br>

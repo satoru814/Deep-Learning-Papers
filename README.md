@@ -2,8 +2,8 @@
 A paper list of deep learning in computer vision.
 
 ## Distributed training
-- **Communication-Efficient Distributed Deep Learning: A Comprehensive Survey** [[arxiv]](https://arxiv.org/abs/2003.06307)
-- **Performance Modeling and Evaluation of Distributed Deep Learning Frameworks on GPUs** [arxiv]]](https://arxiv.org/abs/1711)
+- **Performance Modeling and Evaluation of Distributed Deep Learning Frameworks on GPUs[2018]** [[arxiv]](https://arxiv.org/abs/1711)
+- **Communication-Efficient Distributed Deep Learning: A Comprehensive Survey [2020]** [[arxiv]](https://arxiv.org/abs/2003.06307)
 
 ## Multimodal
 - **[CLIP] Learning Transferable Visual Models From Natural Language Supervision** [[arxiv]](https://arxiv.org/abs/2103.00020)

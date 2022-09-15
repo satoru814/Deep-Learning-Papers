@@ -9,19 +9,20 @@ Comparing the performance of deep learning frameworks(Caffe MPI, Tensorflow, MXN
 - **Communication-Efficient Distributed Deep Learning: A Comprehensive Survey [2020]** [[arxiv]](https://arxiv.org/abs/2003.06307)<br>
 
 ## Multimodal
-- **[VSE++]VSE++: Improved Visual-Semantic Embeddings[2018]** [[arxiv]](https://arxiv.org/abs/1707.05612v1)
-- **[CLIP] Learning Transferable Visual Models From Natural Language Supervision** [[arxiv]](https://arxiv.org/abs/2103.00020)
+- **Illustrative Language Understanding:Large-Scale Visual Grounding with Image Search[2018]** [[pdf]](http://www.cs.toronto.edu/~hinton/absps/picturebook.pdf)
+- **[VSE++]VSE++: Improved Visual-Semantic Embeddings[2018]** [[arxiv]](https://arxiv.org/abs/1707.05612v1)<br>
+- **[CLIP] Learning Transferable Visual Models From Natural Language Supervision** [[arxiv]](https://arxiv.org/abs/2103.00020)<br>
 - **[CoCa] Contrastive Captioners are Image-Text Foundation Models [2022]** [[arxiv]](https://arxiv.org/abs/2205.01917)[READ]
 - **[MetaLM] Language models are general-purpose interfaces [2022]** [[arxiv]](https://arxiv.org/abs/2206.06336)
 - **[BEiT-3] Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks [2022]** [[arxiv]](https://arxiv.org/abs/2208.10442v1)[READ]<br>
 - **[ALIGN] Scaling Up Visual and Vision-Language Representation LearningWith Noisy Text Supervision [2022]** [[arxiv]](https://arxiv.org/abs/2102.05918)<br>
 - 
 ## Learning in large dataset
-- **Conceptual captions: A cleaned, hypernymed, image alt-textdataset for automatic image captioning[2018]** [[pdf]](https://aclanthology.org/P18-1238.pdf)
+- **Conceptual captions: A cleaned, hypernymed, image alt-textdataset for automatic image captioning[2018]** [[pdf]](https://aclanthology.org/P18-1238.pdf)<br>
 - **[OpenImages] The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale[2018]** [[arxiv]](https://arxiv.org/abs/1811.00982)<br>
-- **[YFCC-100M] YFCC100M: The New Data in Multimedia Research** [[arxiv]](https://arxiv.org/abs/1503.01817)
+- **[YFCC-100M] YFCC100M: The New Data in Multimedia Research** [[arxiv]](https://arxiv.org/abs/1503.01817)<br>
 A early work on making and evaluating large dataset(100M images) for various deep learninig tasks.
-- **[JFT-300M] Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [2017]** [[arxiv]](https://arxiv.org/abs/1707.02968)
+- **[JFT-300M] Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [2017]** [[arxiv]](https://arxiv.org/abs/1707.02968)<br>
 The effect of dataset size is investigated. JFT-300M is made from web search and labeling algolithm. Accordings to their ablative study, larger dataset pre-training improve model performance logarithmically.
 - **Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour [2017]** [[arxiv]](https://arxiv.org/abs/1706.02677)<br>
 Training with big minibatch(8k)

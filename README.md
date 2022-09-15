@@ -2,11 +2,11 @@
 A paper list of deep learning in computer vision.
 
 ## Distributed training
-- **Fast Algorithms for Convolutional Neural Networks[2015]** [[arxiv]](https://arxiv.org/abs/1509.09308)
+- **Fast Algorithms for Convolutional Neural Networks[2015]** [[arxiv]](https://arxiv.org/abs/1509.09308)<br>
 Introduction of fast comvolution operations as a deep learning layer. Winograd algorithm and FFT is discribed.
-- **Performance Modeling and Evaluation of Distributed Deep Learning Frameworks on GPUs[2018]** [[arxiv]](https://arxiv.org/abs/1711.05979)
+- **Performance Modeling and Evaluation of Distributed Deep Learning Frameworks on GPUs[2018]** [[arxiv]](https://arxiv.org/abs/1711.05979)<br>
 Comparing the performance of deep learning frameworks(Caffe MPI, Tensorflow, MXNet etc..) in single-GPU and multiple-GPUs each other.
-- **Communication-Efficient Distributed Deep Learning: A Comprehensive Survey [2020]** [[arxiv]](https://arxiv.org/abs/2003.06307)
+- **Communication-Efficient Distributed Deep Learning: A Comprehensive Survey [2020]** [[arxiv]](https://arxiv.org/abs/2003.06307)<br>
 
 ## Multimodal
 - **[CLIP] Learning Transferable Visual Models From Natural Language Supervision** [[arxiv]](https://arxiv.org/abs/2103.00020)

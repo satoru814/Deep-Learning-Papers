@@ -9,12 +9,16 @@ Comparing the performance of deep learning frameworks(Caffe MPI, Tensorflow, MXN
 - **Communication-Efficient Distributed Deep Learning: A Comprehensive Survey [2020]** [[arxiv]](https://arxiv.org/abs/2003.06307)<br>
 
 ## Multimodal
+- **[VSE++]VSE++: Improved Visual-Semantic Embeddings[2018]** [[arxiv]](https://arxiv.org/abs/1707.05612v1)
 - **[CLIP] Learning Transferable Visual Models From Natural Language Supervision** [[arxiv]](https://arxiv.org/abs/2103.00020)
 - **[CoCa] Contrastive Captioners are Image-Text Foundation Models [2022]** [[arxiv]](https://arxiv.org/abs/2205.01917)[READ]
 - **[MetaLM] Language models are general-purpose interfaces [2022]** [[arxiv]](https://arxiv.org/abs/2206.06336)
 - **[BEiT-3] Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks [2022]** [[arxiv]](https://arxiv.org/abs/2208.10442v1)[READ]<br>
-
-##Learning BIGDATA
+- **[ALIGN] Scaling Up Visual and Vision-Language Representation LearningWith Noisy Text Supervision [2022]** [[arxiv]](https://arxiv.org/abs/2102.05918)<br>
+- 
+## Learning in large dataset
+- **Conceptual captions: A cleaned, hypernymed, image alt-textdataset for automatic image captioning[2018]** [[pdf]](https://aclanthology.org/P18-1238.pdf)
+- **[OpenImages] The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale[2018]** [[arxiv]](https://arxiv.org/abs/1811.00982)<br>
 - **[YFCC-100M] YFCC100M: The New Data in Multimedia Research** [[arxiv]](https://arxiv.org/abs/1503.01817)
 A early work on making and evaluating large dataset(100M images) for various deep learninig tasks.
 - **[JFT-300M] Revisiting Unreasonable Effectiveness of Data in Deep Learning Era [2017]** [[arxiv]](https://arxiv.org/abs/1707.02968)
@@ -117,6 +121,9 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 - Mixup
 - **RandAugment: Practical automated data augmentation with a reduced search space [2019]** [[arxiv]](https://arxiv.org/abs/1909.13719) [READ]
 Random select and magnitude of transforms(augmentation) is suggested in place of previous data augmentation strategy(e.g. AutoAug, FastAug)
+
+## Optimizer
+- **Large Batch Optimization for Deep Learning: Training BERT in 76 minutes[[arxiv]]** (https://arxiv.org/abs/1904.00962)
 
 ## Other
 - **L2D2: Learnable Line Detector and Descriptor [2021]** [[arxiv]](https://www.researchgate.net/publication/355340221_L2D2_Learnable_Line_Detector_and_Descriptor)

@@ -125,7 +125,10 @@ It's difficult to directly adapt BERT ideas to pretrain for vision transfomer by
 Random select and magnitude of transforms(augmentation) is suggested in place of previous data augmentation strategy(e.g. AutoAug, FastAug)
 
 ## Optimizer
-- **Large Batch Optimization for Deep Learning: Training BERT in 76 minutes[[arxiv]]** (https://arxiv.org/abs/1904.00962)
+- **Large Batch Optimization for Deep Learning: Training BERT in 76 minutes[2020]** [[arxiv]](https://arxiv.org/abs/1904.00962)
+
+## Quality Assessment
+- **Deep Neural Networks for No-Reference and Full-Reference Image Quality Assessment[2017]** [[pdf]](https://ieeexplore.ieee.org/document/8063957)
 
 ## Other
 - **L2D2: Learnable Line Detector and Descriptor [2021]** [[arxiv]](https://www.researchgate.net/publication/355340221_L2D2_Learnable_Line_Detector_and_Descriptor)

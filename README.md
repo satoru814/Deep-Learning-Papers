@@ -9,13 +9,14 @@ Comparing the performance of deep learning frameworks(Caffe MPI, Tensorflow, MXN
 - **Communication-Efficient Distributed Deep Learning: A Comprehensive Survey [2020]** [[arxiv]](https://arxiv.org/abs/2003.06307)<br>
 
 ## Multimodal
-- **Illustrative Language Understanding:Large-Scale Visual Grounding with Image Search[2018]** [[pdf]](http://www.cs.toronto.edu/~hinton/absps/picturebook.pdf)
+- **Illustrative Language Understanding:Large-Scale Visual Grounding with Image Search[2018]** [[pdf](http://www.cs.toronto.edu/~hinton/absps/picturebook.pdf)
 - **[VSE++]VSE++: Improved Visual-Semantic Embeddings[2018]** [[arxiv]](https://arxiv.org/abs/1707.05612v1)<br>
 - **[CLIP] Learning Transferable Visual Models From Natural Language Supervision** [[arxiv]](https://arxiv.org/abs/2103.00020)<br>
 - **[CoCa] Contrastive Captioners are Image-Text Foundation Models [2022]** [[arxiv]](https://arxiv.org/abs/2205.01917)[READ]
 - **[MetaLM] Language models are general-purpose interfaces [2022]** [[arxiv]](https://arxiv.org/abs/2206.06336)
-- **[BEiT-3] Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks [2022]** [[arxiv]](https://arxiv.org/abs/2208.10442v1)[READ]<br>
-- **[ALIGN] Scaling Up Visual and Vision-Language Representation LearningWith Noisy Text Supervision [2022]** [[arxiv]](https://arxiv.org/abs/2102.05918)<br>
+- **[BEiT-3] Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks[2022]** [[arxiv]](https://arxiv.org/abs/2208.10442v1)[READ]<br>
+- **[ALIGN] Scaling Up Visual and Vision-Language Representation LearningWith Noisy Text Supervision[2022]** [[arxiv]](https://arxiv.org/abs/2102.05918)<br>
+Making web scale noisy dataset of text and image with simple filtring. Contrassive learning with dual encoder loss.
 - 
 ## Learning in large dataset
 - **Conceptual captions: A cleaned, hypernymed, image alt-textdataset for automatic image captioning[2018]** [[pdf]](https://aclanthology.org/P18-1238.pdf)<br>

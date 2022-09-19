@@ -9,7 +9,7 @@ Comparing the performance of deep learning frameworks(Caffe MPI, Tensorflow, MXN
 - **Communication-Efficient Distributed Deep Learning: A Comprehensive Survey [2020]** [[arxiv]](https://arxiv.org/abs/2003.06307)<br>
 
 ## Multimodal
-- **Illustrative Language Understanding:Large-Scale Visual Grounding with Image Search[2018]** [[pdf](http://www.cs.toronto.edu/~hinton/absps/picturebook.pdf)
+- **Illustrative Language Understanding:Large-Scale Visual Grounding with Image Search[2018]** [[pdf]](http://www.cs.toronto.edu/~hinton/absps/picturebook.pdf)
 - **[VSE++]VSE++: Improved Visual-Semantic Embeddings[2018]** [[arxiv]](https://arxiv.org/abs/1707.05612v1)<br>
 - **[CLIP] Learning Transferable Visual Models From Natural Language Supervision** [[arxiv]](https://arxiv.org/abs/2103.00020)<br>
 - **[CoCa] Contrastive Captioners are Image-Text Foundation Models [2022]** [[arxiv]](https://arxiv.org/abs/2205.01917)[READ]
@@ -62,6 +62,7 @@ Token labeling(assign label for each patch of ViT and compute loss for all of th
 - **[DeiT]Training data-efficient image transformers & distillation through attention [2021]** [[arxiv]](https://arxiv.org/abs/2103.16302)<br>
 - **[Tokens-to-Token ViT] Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [2021]**[[arxiv]](https://arxiv.org/abs/2101.11986v1)
 - **[GC-ViT] Global Context Vision Transformers [2022]** [[arxiv]](https://arxiv.org/abs/2206.09959v1)
+- **[Hydra-attention] Hydra Attention: Efficient Attention with Many Heads[2022]** [[arxiv]](https://arxiv.org/abs/2209.07484)
 
 ## VQ
 - **Neural Discrete Representation Learning[2017]** [[arxiv]](https://arxiv.org/abs/1711.00937)<br>
@@ -132,4 +133,5 @@ Random select and magnitude of transforms(augmentation) is suggested in place of
 
 ## Other
 - **L2D2: Learnable Line Detector and Descriptor [2021]** [[arxiv]](https://www.researchgate.net/publication/355340221_L2D2_Learnable_Line_Detector_and_Descriptor)
+Line paires dataset in 2d from 3d point cloouds. Learnable desctiptions for lines.
 - **Pure Transformers are Powerful Graph Learners [2022]** [[arxiv]](https://arxiv.org/abs/2207.02505) [READ]

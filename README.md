@@ -63,6 +63,7 @@ Token labeling(assign label for each patch of ViT and compute loss for all of th
 - **[Tokens-to-Token ViT] Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [2021]**[[arxiv]](https://arxiv.org/abs/2101.11986v1)
 - **[GC-ViT] Global Context Vision Transformers [2022]** [[arxiv]](https://arxiv.org/abs/2206.09959v1)
 - **[Hydra-attention] Hydra Attention: Efficient Attention with Many Heads[2022]** [[arxiv]](https://arxiv.org/abs/2209.07484)
+many attention mechanism for computational efficiency.
 
 ## VQ
 - **Neural Discrete Representation Learning[2017]** [[arxiv]](https://arxiv.org/abs/1711.00937)<br>
